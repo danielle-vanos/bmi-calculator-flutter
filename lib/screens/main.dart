@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'input_page.dart';
+import 'results_page.dart';
 
 void main() => runApp(BMICalculator());
 
@@ -15,8 +16,7 @@ class BMICalculator extends StatelessWidget {
         useMaterial3: false, // To override the default
         textTheme: TextTheme(bodyMedium: TextStyle(color: Colors.white))
       ),
-      home: InputPage(),
-      
+      home: InputPage()      
     );
   }
 }

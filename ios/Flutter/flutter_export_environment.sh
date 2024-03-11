@@ -3,7 +3,7 @@
 export "FLUTTER_ROOT=/Users/dvanos/development/flutter"
 export "FLUTTER_APPLICATION_PATH=/Users/dvanos/bmi-calculator-flutter"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
-export "FLUTTER_TARGET=/Users/dvanos/bmi-calculator-flutter/lib/main.dart"
+export "FLUTTER_TARGET=/Users/dvanos/bmi-calculator-flutter/lib/screens/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"
 export "FLUTTER_BUILD_NUMBER=1"
